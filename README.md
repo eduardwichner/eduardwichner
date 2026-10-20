@@ -28,7 +28,7 @@ I like systems that are **reliable, private, testable, and built to solve real p
 
 ### 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/eduard-raul-wichner-1224bb40)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-raul-wichner-1224bb40/)
 
 ---
 
